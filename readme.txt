@@ -1,3 +1,3 @@
-Δήμητρα Κουλιάκη csd4540
+This is a mockup created using Bootstrap.
 
-Το έτρεχα Microsoft Edge Έκδοση 110.0.1587.57 (Επίσημη έκδοση) (64 bit).
+Tested on Microsoft Edge Version 110.0.1587.57 (64-bit).
